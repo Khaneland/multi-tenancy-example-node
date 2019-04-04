@@ -1,0 +1,15 @@
+{
+  "name": "multi-tenancy-example-node",
+  "version": "1.0.0",
+  "description": "Um exemplo de aplicação multi-tenancy com node utilizando Express e PostgreSQL ",
+  "main": "index.js",
+  "repository": "https://github.com/Khaneland/multi-tenancy-example-node.git",
+  "author": "Khaneland <bruno.silva1643@etec.sp.gov.br>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^7.0.0",
+    "knex": "^0.16.3",
+    "pg": "^7.9.0"
+  }
+}
